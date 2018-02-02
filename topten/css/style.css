@@ -1,0 +1,19 @@
+p {
+	color: #096B72;
+	font-family: arial;
+}
+
+h1	{
+	color:#0075F2;
+}
+
+h2	{
+	color:#00F2F2;
+}
+
+img {
+	width: 40%;
+	border: 4px;
+	border-style: solid;
+	border-color: red;
+}
